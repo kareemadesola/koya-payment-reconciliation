@@ -1,0 +1,19 @@
+reconcile.py
+  s_fb9a718846abb5::t_70248d1cf246b6 6-11,14-15,18-31,33-52,62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "14a6fdcd3fcf4a2142c160f229c877ce3fcce776",
+  "prompts": {},
+  "sessions": {
+    "s_fb9a718846abb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ca27801-e245-4c98-953d-8c4200bde31a",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "kadesola <kadesola@webmd.net>"
+    }
+  }
+}
